@@ -1,0 +1,9 @@
+{
+    "name": "ModWarning",
+    "version": "1.0.0",
+    "title": "Mod Warning",
+    "author": "Roang",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "This mod shows a warning when it is enabled. Make sure to never taint your no-mod safe again."
+  }

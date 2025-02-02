@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 02. 02. 2025
+  Feature:
+    - Show a warning when the mod is enabled
+    - Optionally remove the warning through a setting (per save-game option)
